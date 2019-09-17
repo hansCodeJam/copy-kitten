@@ -51,3 +51,8 @@
     border-width: 1px 0px 0px 1px;
     color:black;
 }
+
+.margin {
+    margin: 1;
+    padding: 1;
+}
